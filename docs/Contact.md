@@ -1,7 +1,7 @@
 ---
 layout: home
-title: About Me
-nav_order: 5
+title: Contact
+nav_order: 6
 ---
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.

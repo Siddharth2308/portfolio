@@ -1,3 +1,4 @@
+<!-- bundle exec jekyll serve -->
 ---
 title: Home
 layout: home
@@ -10,7 +11,7 @@ I like to work on projects that tackle real life challenges by developing sustai
 I am interested in early stage prototyping and R&D projects that involve mechanical / electrical / software engineering.
 {: .fs-5 .fw-300 }
 
-[More About Me](#link_0){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[More About Me](/docs/About.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Resume](#link_1){: .btn  .fs-5 .mb-4 .mb-md-0 }
 
 {: .warning }
@@ -22,15 +23,15 @@ I am interested in early stage prototyping and R&D projects that involve mechani
 {: .new }
 > To use the theme, you do ***not*** need to clone or fork the [Just the Docs repo]! You should do that only if you intend to browse the theme docs locally, contribute to the development of the theme, or develop a new theme based on Just the Docs.
 
-| Test Project 1 | Test Project 1Test Project 1Test Project 1 |
+<!-- | Test Project 1 | Test Project 1Test Project 1Test Project 1 |
 |:-------------|:------------------|
-| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }           | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | 
+| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }           | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } |  -->
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }| 
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">   [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="images/test.png">  [Read More](#link_0){: .btn .btn-blue .fs-4 .mb-2 .mb-md-0 .mr-2 } |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }| 
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="images/test.png">   [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="images/test.png"> [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="images/test.png"> [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } |
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="images/test.png"> [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="images/test.png"> [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="images/test.png"> [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }|
 
 
 ---
