@@ -1,4 +1,3 @@
-<!-- bundle exec jekyll serve -->
 ---
 title: Home
 layout: home
@@ -32,7 +31,6 @@ I am interested in early stage prototyping and R&D projects that involve mechani
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="images/test.png">  [Read More](#link_0){: .btn .btn-blue .fs-4 .mb-2 .mb-md-0 .mr-2 } |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }| 
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="images/test.png">   [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="images/test.png"> [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="images/test.png"> [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } |
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="images/test.png"> [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="images/test.png"> [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="images/test.png"> [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }|
-
 
 ---
 
