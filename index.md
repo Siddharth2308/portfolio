@@ -3,6 +3,10 @@ title: Home
 layout: home
 nav_order: 1
 ---
+
+<iframe width="750" height="400" src="https://www.youtube.com/embed/MIPylK0_fug?si=1_MqKKlydi44cg3N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{: .mx-auto}
+
 # Hi, I am Siddharth 
 {: .fs-9 }
 
@@ -22,19 +26,22 @@ I am interested in early stage prototyping and R&D projects that involve mechani
 {: .highlight }
 > Currently I work in ***Embedded Real Time Systems Lab at IIT Bombay***. I am also associated with ***Vigyan Ashram*** and have worked on several projects with them. At the ERTS Lab I am involed in the E-Yantra Project, Agriculture IOT and Robotics Research. I have listed few of my projects below. Please vist the ***[Projects](docs/Projects.html)*** section to get better idea about my work.
 
-| Timeline | Sponsor / Affiliation | Project Name |
-|:------|:-------------------------:--------------|
-| July 2023 | Fab23 | Human Wildlife Conflict- Fab 23 Bhutan Conference `April 2024` |
-| July 2023 | Brose India | Automotive Grade Dead Reconking for Telematic Devices |
-| July 2023 | SmallDesign | Oxygen Concentrator Monitoring System |
-| July 2023 | Team Rudra  | Locomotion & Odometry on a 3 wheel holonomic drive |
-| July 2023 | Team Rudra  | Low Cost Wireless HID Device Development & Analysis |
-| July 2023 | Team Rudra  | Library for communication with Proprietary HID Devices using Native USB on Teensy 4.1 |
-| July 2023 | Team Rudra  | Android Application for Image Processing and Object Detection |
-| July 2023 | Team Rudra  | Real Time Custom Object Detection using Open CV and Raspi 4B |
-| July 2023 | Team Rudra  | Algorithm for Robot path rectification using IMU |
-| July 2023 | LinkedLoops Technologies  | Object Detection using IMU |
-
+|Sponsor / Affiliation | Project Name |
+|:------:|:-------------------------:|
+| ERTS Lab IITB | Development of multiple devices for Agriculture IOT (Control & Sensing) |
+| ERTS Lab IITB | Development of 4 wheeled differential drive robotic platform, targeted towards educational use and small scale automation. |
+| ERTS Lab IITB | Low Cost easy to make Drones and Flight Controller |
+| ERTS Lab IITB | Warehouse Automation- Theme Developer E-Yantra Robotics Competition |
+| Fab23 | Human Wildlife Conflict- Fab 23 Bhutan Conference |
+| Brose India | Automotive Grade Dead Reconking for Telematic Devices |
+| SmallDesign | Oxygen Concentrator Monitoring System |
+| Team Rudra  | Locomotion & Odometry on a 3 wheel holonomic drive |
+| Team Rudra  | Low Cost Wireless HID Device Development & Analysis |
+| Team Rudra  | Library for communication with Proprietary HID Devices using Native USB on Teensy 4.1 |
+| Team Rudra  | Android Application for Image Processing and Object Detection |
+| Team Rudra  | Real Time Custom Object Detection using Open CV and Raspi 4B |
+| Team Rudra  | Algorithm for Robot path rectification using IMU |
+| LinkedLoops Technologies  | Object Detection using IMU |
 
 
 <!-- | | | |

@@ -13,78 +13,61 @@ Deprecated
 April 2024
 {: .label .label-yellow }
 
-| Agri Edge Device | Human Wildlife Conflict |
-|:-------------|:------------------|
+| XYZ | Differential Robotics Development Platform |
+|:-------------:|:------------------:|
+| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  Developed an low cost 3 Dimensional Dead Reckoning System, that will assist the gps and provide navigational support in absence of GPS signal or when the signal is weak. We used the IMU of GY5-21, ADXL-345 etc. for the Implementation. | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png"> Developed an low cost 3 Dimensional Dead Reckoning System, that will assist the gps and provide navigational support in absence of GPS signal or when the signal is weak. We used the IMU of GY5-21, ADXL-345 etc. for the Implementation.
+[Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | [Read More](#link_0){: .btn .btn-blue .fs-4 .mb-2 .mb-md-0 .mr-2 } | 
+
+<!-- | Fab-able Low Cost Drones & Custom FlightController Firmware | Quadraped Robotics Platform |
+|:-------------:|:------------------:|
+| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }           | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } |  -->
+
+
+| Warehouse Automation- eYRC | Human Wildlife Conflict- Fab 2023 Bhutan |
+|:-------------:|:------------------:|
 | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  Developed an low cost 3 Dimensional Dead Reckoning System, that will assist the gps and provide navigational support in absence of GPS signal or when the signal is weak. We used the IMU of GY5-21, ADXL-345 etc. for the Implementation. | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png"> Developed an low cost 3 Dimensional Dead Reckoning System, that will assist the gps and provide navigational support in absence of GPS signal or when the signal is weak. We used the IMU of GY5-21, ADXL-345 etc. for the Implementation.
 [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | 
 
-| Mobile Sense Device | eBot Mini for SLAM |
-|:-------------|:------------------|
-| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }           | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | 
 
 | Automotive Grade Dead Reconking for Telematic Devices | Oxygen Concentrator Monitoring System |
-|:-------------|:------------------|
+|:-------------:|:------------------:|
 | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }           | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | 
 
-| Automotive Grade Dead Reconking for Telematic Devices | Oxygen Concentrator Monitoring System |
-|:-------------|:------------------|
+| Locomotion & Odometry of 3 Wheel Holonomic Drive | Low Cost Wireless HID Device Development & Analysis |
+|:-------------:|:------------------:|
 | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }           | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | 
 
-| Automotive Grade Dead Reconking for Telematic Devices | Oxygen Concentrator Monitoring System |
-|:-------------|:------------------|
+| [Open Source] Interfacing Proprietary HID Devices via Native USB on Teensy 4.1 | Android Application for Image Processing and Object Detection |
+|:-------------:|:------------------:|
 | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }           | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | 
 
-| Automotive Grade Dead Reconking for Telematic Devices | Oxygen Concentrator Monitoring System |
-|:-------------|:------------------|
+| Real Time Custom Object Detection using Open CV and Raspi 4B | Algorithm for Robot path rectification using IMU |
+|:-------------:|:------------------:|
 | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }           | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | 
 
-| Automotive Grade Dead Reconking for Telematic Devices | Oxygen Concentrator Monitoring System |
-|:-------------|:------------------|
+
+| Object Detection using IMU | Electronic Attendance Module |
+|:-------------:|:------------------:|
 | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }           | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | 
 
-| Automotive Grade Dead Reconking for Telematic Devices | Oxygen Concentrator Monitoring System |
-|:-------------|:------------------|
+
+| Speedometer Odometer & Telemetry for E-Bike | Regional Power Generation Predictor |
+|:-------------:|:------------------:|
 | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }           | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | 
 
-| Automotive Grade Dead Reconking for Telematic Devices | Oxygen Concentrator Monitoring System |
-|:-------------|:------------------|
+
+| Proctored Examination Software | Project Management System Software |
+|:-------------:|:------------------:|
 | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }           | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | 
 
-| Automotive Grade Dead Reconking for Telematic Devices | Oxygen Concentrator Monitoring System |
-|:-------------|:------------------|
+<!-- | Weather Predictor ML | Sudoku Solver AI |
+|:-------------:|:------------------:|
+| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }           | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } |  -->
+
+
+| Dustbin for Dry Garbage | Water Wastage Controller |
+|:-------------:|:------------------:|
 | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }           | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | 
-
-| Automotive Grade Dead Reconking for Telematic Devices | Oxygen Concentrator Monitoring System |
-|:-------------|:------------------|
-| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }           | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | 
-
-| Automotive Grade Dead Reconking for Telematic Devices | Oxygen Concentrator Monitoring System |
-|:-------------|:------------------|
-| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }           | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | 
-
-| Automotive Grade Dead Reconking for Telematic Devices | Oxygen Concentrator Monitoring System |
-|:-------------|:------------------|
-| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }           | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | 
-
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
-
-More specifically, the created site:
-
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
-
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-
 
 ----
 

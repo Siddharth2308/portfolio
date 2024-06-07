@@ -13,6 +13,8 @@ color_scheme: nil
 
 callouts_level: quiet # or loud
 callouts:
+  alternate:
+    color: red
   highlight:
     color: yellow
   important:
