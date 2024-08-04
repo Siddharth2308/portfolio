@@ -4,8 +4,19 @@ layout: home
 nav_order: 1
 ---
 
-<iframe width="750" height="400" src="https://www.youtube.com/embed/MIPylK0_fug?si=1_MqKKlydi44cg3N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- ![Alt Text](/images/tests.gif) -->
+
+<!-- <img src="/images/tests.gif" width="400" height="300" /> -->
+
+<!-- <iframe width="750" height="400" src="https://www.youtube.com/embed/MIPylK0_fug?si=1_MqKKlydi44cg3N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+
+<video src="/images/Portfolio Video.mp4" type="video/mp4" width="600" height="400" autoplay="true" loop controls></video>
+
+<!-- <video autoplay="true" width="600" height="400" controls>
+  <source src="/images/Portfolio Video.mp4" type="video/mp4">
+</video>  -->
 {: .mx-auto}
+
 
 # Hi, I am Siddharth 
 {: .fs-9 }

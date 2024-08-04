@@ -16,7 +16,7 @@ April 2024
 
 | Agri-Edge | Research on Remote Labs for Robotics Education |
 |:-------------:|:------------------:|
-| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  Development of Firmware and PCB of ubiquitous device, that can intercept and decode 433 OOK transmissions from over 100 different Proprietary Weather stations. Specifically designed as a part of an agricultural data collection system. Capable of acting as 868 Lora node /  Gateway, 4G GSM CLient,  2.4Ghz WiFi & BLE support | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png"> Developed an low cost 3 Dimensional Dead Reckoning System, that will assist the gps and provide navigational support in absence of GPS signal or when the signal is weak. We used the IMU of GY5-21, ADXL-345 etc. for the Implementation.
+| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/projects/agri_1.jpg">  Development of Firmware and PCB of ubiquitous device, that can intercept and decode 433 OOK transmissions from over 100 different Proprietary Weather stations. Specifically designed as a part of an agricultural data collection system. Capable of acting as 868 Lora node /  Gateway, 4G GSM CLient,  2.4Ghz WiFi & BLE support | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/projects/cl.png"> Developed an low cost 3 Dimensional Dead Reckoning System, that will assist the gps and provide navigational support in absence of GPS signal or when the signal is weak. We used the IMU of GY5-21, ADXL-345 etc. for the Implementation.
 [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | [Read More](#link_0){: .btn .btn-blue .fs-4 .mb-2 .mb-md-0 .mr-2 } | 
 
 | Multi-Agent Heirarchial Architecture for Robotics | Fab-able Low Cost Drones & Custom FlightController Firmware |
@@ -44,17 +44,17 @@ April 2024
 
 | Real Time Custom Object Detection using Open CV and Raspi 4B | Algorithm for Robot path rectification using IMU |
 |:-------------:|:------------------:|
-| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }           | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | 
+| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/projects/ImageProcessing2.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/projects/chassis.jpeg">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | 
 
 
 | Object Detection using IMU | Electronic Attendance Module |
 |:-------------:|:------------------:|
-| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }           | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | 
+| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/projects/magneto.jpg">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/projects/attendance.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | 
 
 
 | Speedometer Odometer & Telemetry for E-Bike | Regional Power Generation Predictor |
 |:-------------:|:------------------:|
-| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }           | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/test.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | 
+| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/projects/ebike.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 }           | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/projects/power.png">  [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | 
 
 
 | Proctored Examination Software | Project Management System Software |
