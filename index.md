@@ -4,19 +4,9 @@ layout: home
 nav_order: 1
 ---
 
-<!-- ![Alt Text](/images/tests.gif) -->
+<iframe width="600" height="400" src="https://www.youtube.com/embed/Oqtj3wyrw8g?si=zBwC81_2O_iUpXPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<!-- <img src="/images/tests.gif" width="400" height="300" /> -->
-
-<!-- <iframe width="750" height="400" src="https://www.youtube.com/embed/MIPylK0_fug?si=1_MqKKlydi44cg3N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
-
-<video src="/images/Portfolio Video.mp4" type="video/mp4" width="600" height="400" autoplay="true" loop controls></video>
-
-<!-- <video autoplay="true" width="600" height="400" controls>
-  <source src="/images/Portfolio Video.mp4" type="video/mp4">
-</video>  -->
 {: .mx-auto}
-
 
 # Hi, I am Siddharth 
 {: .fs-9 }
@@ -39,19 +29,21 @@ I am interested in early stage prototyping and R&D projects that involve mechani
 
 |Sponsor / Affiliation | Project Name |
 |:------:|:-------------------------:|
-| ERTS Lab IITB | Development of multiple devices for Agriculture IOT (Control & Sensing) |
+| inMachines | Optimizing grbl-HAL for high speed laser engraving using teensy 4.1 |
+| ERTS Lab IITB | Study of different cultivation approaches in polyhouse and their impact on pest growth |
+| ERTS Lab IITB | Development of micro climate data acquisition devices- AgriEdge and Mobile Sense (Control & Sensing) |
 | ERTS Lab IITB | Development of 4 wheeled differential drive robotic platform, targeted towards educational use and small scale automation. |
 | ERTS Lab IITB | Low Cost easy to make Drones and Flight Controller |
 | ERTS Lab IITB | Warehouse Automation- Theme Developer E-Yantra Robotics Competition |
 | Fab23 | Human Wildlife Conflict- Fab 23 Bhutan Conference |
 | Brose India | Automotive Grade Dead Reconking for Telematic Devices |
 | SmallDesign | Oxygen Concentrator Monitoring System |
-| Team Rudra  | Locomotion & Odometry on a 3 wheel holonomic drive |
-| Team Rudra  | Low Cost Wireless HID Device Development & Analysis |
-| Team Rudra  | Library for communication with Proprietary HID Devices using Native USB on Teensy 4.1 |
-| Team Rudra  | Android Application for Image Processing and Object Detection |
-| Team Rudra  | Real Time Custom Object Detection using Open CV and Raspi 4B |
-| Team Rudra  | Algorithm for Robot path rectification using IMU |
+| Robotics Team | Locomotion & Odometry on a 3 wheel holonomic drive |
+| Robotics Team | Low Cost Wireless HID Device Development & Analysis |
+| Robotics Team | Library for communication with Proprietary HID Devices using Native USB on Teensy 4.1 |
+| Robotics Team | Android Application for Image Processing and Object Detection |
+| Robotics Team | Real Time Custom Object Detection using Open CV and Raspi 4B |
+| Robotics Team | Algorithm for Robot path rectification using IMU |
 | LinkedLoops Technologies  | Object Detection using IMU |
 
 
