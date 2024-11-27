@@ -4,17 +4,17 @@ title: Projects
 nav_order: 2
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+<!-- This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details. -->
 
 <!-- Test{: .label .label-yellow } -->
-
+<!-- 
 Deprecated
 {: .label .label-red }
 April 2024
-{: .label .label-yellow }
+{: .label .label-yellow } -->
 
 
-| Agri-Edge | Research on Remote Labs for Robotics Education |
+| Agri-Edge | MobileSense |
 |:-------------:|:------------------:|
 | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/projects/agri_1.jpg">  Development of Firmware and PCB of ubiquitous device, that can intercept and decode 433 OOK transmissions from over 100 different Proprietary Weather stations. Specifically designed as a part of an agricultural data collection system. Capable of acting as 868 Lora node /  Gateway, 4G GSM CLient,  2.4Ghz WiFi & BLE support | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="../images/projects/cl.png"> Developed an low cost 3 Dimensional Dead Reckoning System, that will assist the gps and provide navigational support in absence of GPS signal or when the signal is weak. We used the IMU of GY5-21, ADXL-345 etc. for the Implementation.
 [Read More](#link_0){: .btn .btn-green .fs-4 .mb-2 .mb-md-0 .mr-2 } | [Read More](#link_0){: .btn .btn-blue .fs-4 .mb-2 .mb-md-0 .mr-2 } | 

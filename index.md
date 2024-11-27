@@ -27,6 +27,9 @@ I am interested in early stage prototyping and R&D projects that involve mechani
 {: .highlight }
 > Currently I work in ***Embedded Real Time Systems Lab at IIT Bombay***. I am also associated with ***Vigyan Ashram*** and have worked on several projects with them. At the ERTS Lab I am involed in the E-Yantra Project, Agriculture IOT and Robotics Research. I have listed few of my projects below. Please vist the ***[Projects](docs/Projects.html)*** section to get better idea about my work.
 
+{: .note }
+> I am also the Theme Developer / Mentor in the [e-Yantra Robotics Competition](https://portal.e-yantra.org/themeIntro) for the theme of Logistic coBot. This theme focuses on training students about industrial robotics using remote lab setup and Robot Operating System (ROS2). 
+
 |Sponsor / Affiliation | Project Name |
 |:------:|:-------------------------:|
 | inMachines | Optimizing grbl-HAL for high speed laser engraving using teensy 4.1 |
