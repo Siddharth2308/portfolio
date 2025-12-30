@@ -14,3 +14,9 @@ gem 'jekyll-github-metadata', '~> 2.16', '>= 2.16.1'
 gem "jekyll-include-cache", group: :jekyll_plugins
 
 gem 'html-proofer'
+gem "csv"
+gem "csv"
+gem "base64"
+gem "logger"
+gem "uri"
+gem "bigdecimal"
